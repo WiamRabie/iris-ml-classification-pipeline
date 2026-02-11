@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/WiamRabie/iris-ml-classification-pipeline/blob/main/notebooks/01_iris_classification_pipeline.ipynb
+)
+
+
 # Iris Species Classification – Machine Learning Pipeline
 
 ## Overview
